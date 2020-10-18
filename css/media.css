@@ -1,0 +1,1110 @@
+@media (max-width: 1170px) {
+    .container {
+        max-width: 970px;
+    }
+
+    .profession-content {
+        font-size: 17px;
+    }
+
+    #hero .row {
+        margin: 62px -21px;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    #hero .col-4 {
+        padding: 15px 34px;
+    }
+
+    .difference-bootcamp-title {
+        font-size: 42px;
+    }
+
+    .verticalLine {
+        margin-left: -121px;
+        top: 135px;
+    }
+
+    .about-profession {
+        font-size: 19px;
+    }
+
+    iframe {
+        width: 545px;
+        height: 400px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 768px;
+    }
+
+    .top-menu {
+        display: none;
+    }
+
+    .top-menu-item {
+        padding: 5px;
+    }
+
+    .mobile-menu {
+        display: flex;
+        z-index: 999;
+    }
+
+    .top-menu.show {
+        position: fixed;
+        background: #0d95e8;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 35%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        z-index: 99;
+    }
+
+    .top-menu.show .top-menu-item {
+        margin-right: 0;
+    }
+
+    .header-link {
+        display: none;
+    }
+
+    .title {
+        font-size: 35px;
+        padding-bottom: 14px;
+    }
+
+    .sub-title {
+        font-size: 18px;
+        font-weight: 500;
+        padding-bottom: 16px;
+    }
+
+
+    .hero-content {
+        padding-top: 100px;
+        height: 62vh;
+    }
+
+    .sub-title-subtitle {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .content-title {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .col-4 {
+        width: 100%;
+    }
+
+    #hero .row {
+        margin: 0;
+    }
+
+    .content-item {
+        border-radius: 12px;
+        width: 50%;
+        margin: 3px auto;
+    }
+
+    .second-content-title {
+        padding: 0;
+    }
+
+    .d-flex {
+        display: block;
+    }
+
+    /* second-section */
+    .difference-bootcamp-title {
+        font-size: 38px;
+        line-height: 20px;
+        padding-bottom: 72px;
+    }
+
+    .diff-d-flex {
+        display: flex;
+    }
+
+    .difference-bootcamp row {
+        margin: 0 -10px;
+    }
+
+    .difference-bootcamp .col-4 {
+        width: 100%;
+        padding: 0 5px;
+    }
+
+    .difference-bootcamp .col-8 {
+        width: 100%;
+        padding: 0 5px;
+    }
+
+    .wrap-wrap {
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 100px;
+    }
+
+    .wrap-wrap1 {
+        padding-top: 70px;
+        justify-content: space-between;
+
+    }
+
+    .owner-company img {
+        transform: translate(-50%, -50%);
+        padding-top: 0;
+        width: 228px;
+    }
+
+    .owner-company1 img {
+        transform: translate(-50%, -50%);
+        padding-top: 0;
+        width: 228px;
+    }
+
+    .owner-company {
+        width: 340px;
+    }
+
+    .owner-company1 {
+        width: 340px;
+        margin-bottom: 76px;
+    }
+
+    .owner-info {
+        font-size: 25px;
+    }
+
+    .owner-desc {
+        font-size: 18px;
+    }
+
+    .wrap-wrap1 .owner-info-details:before {
+        content: "";
+        display: block;
+        width: 400px;
+        height: 15px;
+        left: 0;
+        bottom: 126px;
+        position: absolute;
+        border-bottom: 4px solid #2D9CDB;
+    }
+
+    .owner-info-details {
+        padding: 50px;
+        margin-bottom: 70px;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .owner-info-details:before {
+        content: "";
+        display: block;
+        width: 400px;
+        height: 5px;
+        left: -9px;
+        bottom: 20px;
+    }
+
+    .col-3 {
+        width: 50%;
+    }
+
+    .d-flex-bootcamp {
+        display: flex;
+    }
+
+    .content-bootcamp {
+        padding-top: 28px;
+    }
+
+    .verticalLine {
+        display: none;
+    }
+
+    .row-wrap {
+        background: none;
+    }
+
+    .profession-item {
+        background: rgba(0, 163, 255, 0.8);
+        margin-bottom: 59px;
+    }
+
+    .about-profession {
+        font-size: 19px;
+    }
+
+    .profession-content {
+        font-size: 14px;
+        padding: 8px 7px 13px;
+    }
+
+    /* third-section */
+    .difference-bootcamp {
+        padding: 0;
+        background: none;
+    }
+
+    .materials-box {
+        display: flex;
+        margin-bottom: 34px;
+    }
+
+    .materials-content {
+        margin-bottom: 40px;
+    }
+
+    .title-content {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    /* four-section */
+    .box-pic {
+        margin: 0;
+        padding: 0;
+    }
+
+    .box-pic svg {
+        max-width: 77px;
+    }
+
+    .col-12 {
+        margin-left: 0;
+    }
+
+    .subject {
+        padding-left: 16px;
+    }
+
+    .second-item {
+        margin: 0;
+        padding-top: 22px;
+    }
+
+    .second-title-item {
+        margin: 0;
+        padding-top: 22px;
+    }
+
+    .box-title {
+        margin: 0;
+        padding: 0;
+        padding-top: 22px;
+    }
+
+    .caption {
+        font-size: 38px;
+    }
+
+    .heading {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .heading-item {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    /* five-section */
+    .our-team {
+        padding: 30px 0;
+    }
+
+    .our-team-title {
+        font-size: 38px;
+        padding: 0;
+
+    }
+
+    .cv-heading {
+        font-size: 38px;
+    }
+
+    .owner-info-det-sam {
+        padding-top: 13px;
+        margin-bottom: 0;
+    }
+
+    /* six-section */
+    .cv-heading {
+        padding: 50px 0 0;
+    }
+
+    .title-box-heading {
+        font-size: 24px;
+    }
+
+    .developer-icon {
+        display: none;
+    }
+
+    .money {
+        display: none;
+    }
+
+    .about-title {
+        font-size: 38px;
+        line-height: 0;
+    }
+
+    .video-lessons {
+        height: 466px;
+    }
+
+    .video-player {
+        max-width: 650px;
+    }
+
+    .form-header{
+        display: none;
+    }
+    .col-6{
+        width: 100%;
+    }
+
+    .feedbacks .col-6 {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+    .feedback-title {
+        font-size: 38px;
+    }
+
+    .footer-desc {
+        font-size: 10px;
+    }
+
+    .footer-menu {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 540px;
+    }
+
+    #hero {
+        height: 100vh;
+    }
+
+    .img {
+        max-width: 100%;
+    }
+
+    .difference-bootcamp-title {
+        font-size: 28px;
+    }
+
+    .col-3 {
+        width: 100%;
+    }
+    .col-4{
+        padding: 0 15px;
+    }
+    #hero .col-4 {
+        padding: 3px 34px;
+    }
+    .content-item{
+        margin: 8px auto;
+    }
+
+    .about-profession {
+        font-size: 24px;
+    }
+
+    .profession-content {
+        font-size: 18px;
+    }
+
+    .caption {
+        font-size: 32px;
+    }
+
+    .text-title {
+        font-size: 18px;
+    }
+
+    .wrap-wrap {
+        display: block;
+    }
+
+    .owner-company {
+        width: 524px;
+        height: 300px;
+    }
+
+    .owner-desc {
+        font-size: 18px;
+    }
+    .owner-info-details:before {
+        width: 545px;
+    }
+    .wrap-wrap1 {
+        display: block;
+        padding-top: 0;
+    }
+    .owner-company1 {
+        width: 524px;
+        height: 300px;
+    }
+
+    .owner-desc1 {
+        font-size: 18px;
+        padding: 15px 150px;
+    }
+
+    .wrap-wrap1 .owner-information:before {
+        content: "";
+        display: block;
+        width: 545px;
+        top: -55px;
+    }
+
+    .owner-company1 {
+        width: 524px;
+        height: 300px;
+    }
+
+    .owner-company img {
+        transform: translate(-50%, -50%);
+        padding-top: 125px;
+        width: 228px;
+    }
+
+    .owner-company1 img {
+        transform: translate(-50%, -50%);
+        padding-top: 125px;
+        width: 228px;
+    }
+
+    .owner-info {
+        font-size: 25px;
+    }
+
+    .owner-desc {
+        font-size: 18px;
+        padding: 5px 150px;
+    }
+
+    .owner-info-details:before {
+        display: none;
+    }
+
+    .owner-info-det-sam {
+        padding-top: 50px;
+        margin-bottom: 0;
+    }
+
+    .video-player {
+        max-width: 545px;
+    }
+    .box {
+        width: 540px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .box-text-inputs {
+        width: 433px;
+    }
+    .form-header{
+        display: none;
+    }
+    .col-6{
+        width: 100%;
+    }
+
+    .right-side {
+        display: none;
+    }
+}
+
+
+@media (max-width: 425px) {
+    .container {
+        max-width: 340px;
+    }
+
+    .top-menu-item {
+        margin-left: 0;
+    }
+
+    .title {
+        font-size: 22px;
+        padding-bottom: 14px;
+    }
+
+    .sub-title {
+        font-size: 18px;
+        font-weight: 500;
+        padding-bottom: 16px;
+    }
+    .hero-content {
+        padding-top: 100px;
+        height: 62vh;
+    }
+
+    .sub-title-subtitle {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .content-title {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .col-4 {
+        width: 100%;
+    }
+
+    .content-item {
+        margin: 0;
+
+    }
+
+    #hero .row {
+        margin: 0;
+    }
+
+    .content-item {
+        border-radius: 12px;
+        margin-bottom: 1px;
+        width: 100%;
+    }
+
+    .d-flex {
+        display: block;
+    }
+
+    /* second-section */
+    .difference-bootcamp-title {
+        font-size: 24px;
+        line-height: 28px;
+        padding-bottom: 72px;
+    }
+
+    .col-3 {
+        width: 100%;
+    }
+
+    .content-bootcamp {
+        padding-top: 28px;
+    }
+
+    .verticalLine {
+        display: none;
+    }
+
+    .row-wrap {
+        background: none;
+    }
+
+    .profession-item {
+        background: rgba(0, 163, 255, 0.8);
+        margin-bottom: 59px;
+    }
+
+    .about-profession {
+        font-size: 19px;
+    }
+
+    .profession-content {
+        font-size: 10px;
+        padding: 8px 7px 13px;
+    }
+
+    /* third-section */
+    .difference-bootcamp {
+        padding: 0;
+    }
+
+    .materials-box {
+        display: flex;
+        margin-bottom: 34px;
+    }
+
+    .materials-content {
+        margin-bottom: 40px;
+    }
+
+    .title-content {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    /* four-section */
+    .box-pic {
+        margin: 0;
+        padding: 0;
+    }
+
+    .box-pic svg {
+        max-width: 77px;
+    }
+
+    .col-12 {
+        margin-left: 0;
+    }
+
+    .subject {
+        padding-left: 16px;
+    }
+
+    .second-item {
+        margin: 0;
+        padding-top: 22px;
+    }
+
+    .second-title-item {
+        margin: 0;
+        padding-top: 22px;
+    }
+
+    .box-title {
+        margin: 0;
+        padding: 0;
+        padding-top: 22px;
+    }
+
+    .caption {
+        font-size: 29px;
+    }
+
+    .heading-item {
+        font-size: 21px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+
+    /* five-section */
+    .our-team {
+        padding: 30px 0;
+    }
+
+    .our-team-title {
+        font-size: 28px;
+        padding: 0;
+
+    }
+
+    .wrap-wrap {
+        padding-top: 40px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .wrap-wrap1 {
+        padding-top: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .owner-info-details {
+        padding: 0;
+        margin-bottom: 43px;
+        font-size: 16px;
+
+    }
+
+    .owner-company {
+        width: 340px;
+    }
+
+    .owner-company1 {
+        width: 340px;
+        margin-bottom: 76px;
+    }
+
+    .owner-company img {
+        transform: translate(-50%, -50%);
+        padding-top: 125px;
+        width: 228px;
+    }
+
+    .owner-company1 img {
+        transform: translate(-50%, -50%);
+        padding-top: 125px;
+        width: 228px;
+    }
+
+    .owner-info {
+        font-size: 25px;
+    }
+
+    .owner-desc {
+        font-size: 18px;
+    }
+
+    .owner-info-details:before {
+        display: none;
+    }
+
+    .wrap-wrap1 .owner-info-details:before {
+        content: "";
+        display: block;
+        width: 340px;
+        height: 15px;
+        left: 0;
+        bottom: 126px;
+        position: absolute;
+        border-bottom: 4px solid #2D9CDB;
+    }
+
+    .cv-heading {
+        font-size: 24px;
+    }
+
+    .owner-info-det-sam {
+        padding-top: 13px;
+        margin-bottom: 0;
+    }
+
+    /* six-section */
+    .cv-heading {
+        padding: 50px 0 0;
+    }
+
+    .developer-icon {
+        display: none;
+    }
+
+    .money {
+        display: none;
+    }
+
+    .about-title {
+        font-size: 24px;
+        line-height: 0;
+    }
+
+    .video-lessons {
+        height: 466px;
+    }
+
+    .video-player {
+        max-width: 340px;
+    }
+
+    .feedback-title {
+        font-size: 24px;
+    }
+
+    /* seven-section */
+    .col-6 {
+        width: 100%;
+        padding: 0;
+    }
+
+    iframe {
+        width: 348px;
+        height: 240px;
+    }
+
+    .form-header{
+        display: none;
+    }
+
+    .feedbacks {
+        padding: 120px 0 0;
+    }
+
+    /* eight-section */
+    .box {
+        width: 340px;
+    }
+
+    .box-text-inputs {
+        max-width: 100%;
+    }
+
+    .box-text-inputs {
+        width: 238px;
+    }
+
+    .form-label {
+        font-size: 6px;
+    }
+
+    .btn {
+        width: 73px;
+        height: 25px;
+        transform: translateX(86px);
+        margin-top: 11px;
+        font-size: 10px;
+    }
+
+    /* footer */
+    .mobile-number {
+        font-size: 13px;
+        text-align: center;
+        padding-top: 9px;
+    }
+
+    .email-address {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .footer-box {
+        flex-direction: column;
+    }
+
+    .top-side svg {
+        width: 30px;
+    }
+
+    .footer-desc {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+
+    .right-side {
+        display: none;
+    }
+
+    .heading {
+        font-size: 21px;
+    }
+
+    .text-title {
+        padding-top: 22px;
+        font-size: 13px;
+    }
+
+    .title-box-heading {
+        font-size: 23px;
+    }
+
+    .video-player {
+        max-width: 358px;
+    }
+
+    .wrap-wrap1 .owner-info-details:before {
+        bottom: 125px;
+    }
+}
+
+
+@media (max-width: 375px) {
+    .container {
+        max-width: 320px;
+    }
+    .hero-content {
+        height: 50vh;
+    }
+    .owner-desc {
+        padding: 5px 69px;
+    }
+
+    .content-item {
+        margin-bottom: 0;
+    }
+
+    .title-content {
+        font-size: 16px;
+    }
+
+    .content-subtitle {
+        font-size: 13px;
+    }
+
+    .difference-bootcamp-title {
+        font-size: 20px;
+    }
+
+    .heading {
+        font-size: 15px;
+    }
+
+    .caption {
+        font-size: 22px;
+    }
+
+    .cv-heading {
+        font-size: 20px;
+    }
+
+    .title-box-heading {
+        font-size: 20px;
+    }
+
+    .heading-item {
+        font-size: 15px;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+    .wrap-wrap1 .owner-info-details:before {
+        bottom: 127px;
+        width: 321px;
+    }
+
+    .owner-company {
+        width: 319px;
+    }
+
+    .owner-company1 {
+        width: 319px;
+    }
+
+    .owner-desc {
+        font-size: 14px;
+    }
+
+    .owner-info-details {
+        padding: 0;
+        margin-bottom: 43px;
+        font-size: 14px;
+    }
+
+    .video-player {
+        max-width: 340px;
+    }
+
+    iframe {
+        width: 330px;
+        height: 240px;
+    }
+
+    .box {
+        width: 315px;
+    }
+
+    .box-text-inputs {
+        width: 224px;
+    }
+
+    .btn {
+        transform: translateX(69px);
+    }
+    .form-header{
+        display: none;
+    }
+    .col-6{
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .container {
+        max-width: 270px;
+    }
+
+    #hero .col-4 {
+        padding: 5px 37px;
+    }
+
+    .difference-bootcamp-title {
+        font-size: 15px;
+    }
+
+    .content-item {
+        margin-bottom: 1px;
+    }
+    .owner-desc {
+        padding: 5px 69px;
+    }
+
+    .hero-content {
+        height: 60vh;
+    }
+
+    .owner-company {
+        width: 270px;
+    }
+
+    .owner-desc {
+        font-size: 11px;
+    }
+
+    .owner-info {
+        font-size: 20px;
+    }
+
+    .owner-info-details {
+        font-size: 13px;
+    }
+
+    .owner-company1 {
+        width: 270px;
+    }
+
+    .wrap-wrap1 .owner-info-details:before {
+        width: 271px;
+    }
+
+    .cv-heading {
+        font-size: 19px;
+    }
+
+    .title-box-subtitle {
+        font-size: 21px;
+        padding: 2px 26px;
+        width: 270px;
+    }
+
+    .title-box-heading {
+        font-size: 18px;
+    }
+
+    .feedback-title {
+        font-size: 20px;
+    }
+
+    iframe {
+        width: 290px;
+        height: 240px;
+    }
+
+    .box {
+        width: 259px;
+        height: 431px;
+    }
+
+    .box-text-inputs {
+        width: 173px;
+    }
+
+    .box-text-inputs {
+        margin: 31px 41px 30px;
+    }
+
+    .btn {
+        transform: translateX(42px);
+    }
+    .form-header{
+        display: none;
+    }
+
+}
+
+
