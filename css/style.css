@@ -177,6 +177,7 @@ header .container {
 
 #hero .row {
     margin: 0 55px;
+    padding-top: 50px;
 }
 hero_row__content{
     margin-bottom: 30px;

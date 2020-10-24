@@ -8,7 +8,7 @@
     }
 
     #hero .row {
-        margin: 62px -21px;
+        margin: -10px -21px;
     }
 
     .col-3 {
@@ -115,6 +115,7 @@
 
     #hero .row {
         margin: 0;
+        padding-top: 0px;
     }
 
     .content-item {
@@ -428,6 +429,9 @@
     }
     #hero .col-4 {
         padding: 3px 34px;
+    }
+    #hero .row{
+        margin: -13px -21px;
     }
     .content-item{
         margin: 8px auto;
